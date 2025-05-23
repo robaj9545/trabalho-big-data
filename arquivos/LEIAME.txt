@@ -1,0 +1,7 @@
+15/04/2025
+- Criação da pasta e envio do email com o acesso ao robertoaj9545@gmail.com
+- os arquivos com os nomes "relfatporlinhaveiculoviagem" contém os dados solicitados em: 
+demanda de passageiros e frota e operação;
+- o arquivo "realveiculos (ABR25)" encontra-se a quantidade de carros com o ano de fabricação para o cálculo da idade média.
+- o arquivo "KMZ LINHAS TRANSPORTE PÚBLICO" encontra-se o itinerário das linhas de ônibus tanto as radiais (operação atual) como a do sistema inthegra.
+
